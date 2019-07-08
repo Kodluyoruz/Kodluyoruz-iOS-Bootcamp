@@ -1,4 +1,4 @@
-# <img src="bg_home.jpeg" alt="Kodluyoruz.ORG" class="logo"/> 
+# <img src="bg_phone.png" alt="Kodluyoruz.ORG" class="logo"/> 
 
 ## Swift ile iOS Uygulama Geliştirme Programı (Syllabus - İzlence)
 
