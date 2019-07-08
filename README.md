@@ -191,7 +191,7 @@ Jr. olsanız bile saygı görmenizi sağlayacak işin yazılı olmayan tüm kura
     * Refactoring   
     
 * Diğer Table View Özellikleri 
-    * Table View ile subclass mantısı 
+    * Table View ile subclass mantığı 
     * Satır Taşıma (Moving rows)
     * Birden çok satır silme (Deleting Multiple Rows)
     * Bölüm (Section) Kavramı 
