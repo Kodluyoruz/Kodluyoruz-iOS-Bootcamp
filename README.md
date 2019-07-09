@@ -263,9 +263,13 @@ Jr. olsanız bile saygı görmenizi sağlayacak işin yazılı olmayan tüm kura
 * Github
     * https://github.com/matteocrippa/awesome-swift
     * https://github.com/jVirus/ios-learning-materials
+    * https://github.com/halilozel1903/Swift101
+    * https://github.com/halilozel1903/iOSProjects
     
 * Website
     * https://www.raywenderlich.com 
+    * http://yazilimcenneti.net/category/ios/
+    * https://medium.com/@halilozel1903
     
 * Youtube Kanalları
     * https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg
