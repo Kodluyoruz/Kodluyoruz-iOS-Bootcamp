@@ -263,6 +263,9 @@ Jr. olsanız bile saygı görmenizi sağlayacak işin yazılı olmayan tüm kura
 * Github
     * https://github.com/matteocrippa/awesome-swift
     * https://github.com/jVirus/ios-learning-materials
+    * https://github.com/SwiftyJSON/SwiftyJSON
+    * https://github.com/Alamofire/Alamofire
+    * https://github.com/onevcat/Kingfisher
     
 * Website
     * https://www.raywenderlich.com 
